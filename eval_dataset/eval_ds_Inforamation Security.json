@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What does the document state about: \"Purpose of the Information Security Policy\"?",
+        "answer": "The Information Security Policy establishes the framework for protecting the confidentiality, integrity, and availability of information assets.",
+        "reference": "The purpose of this Information Security Policy is to establish the framework for protecting the confidentiality, integrity, and availability of the organization's information assets."
+    },
+    {
+        "question": "What does the document state about: \"Scope of the Information Security Policy\"?",
+        "answer": "The policy applies to all employees, contractors, and third-party users who have access to the organization's information assets.",
+        "reference": "This policy applies to all employees, contractors, and third-party users who have access to the organization's information assets."
+    },
+    {
+        "question": "What does the document state about: \"Information Security Objectives\"?",
+        "answer": "The objectives are to ensure business continuity, minimize business damage, and maximize return on investments and business opportunities.",
+        "reference": "The objectives of the Information Security Policy are to ensure business continuity, minimize business damage, and maximize return on investments and business opportunities."
+    },
+    {
+        "question": "What does the document state about: \"Information Security Responsibilities\"?",
+        "answer": "Information Security responsibilities are assigned to ensure that security measures are implemented, monitored, and maintained.",
+        "reference": "Responsibilities are assigned to ensure that information security measures are implemented, monitored, and maintained."
+    },
+    {
+        "question": "What does the document state about: \"Management Commitment to Information Security\"?",
+        "answer": "Management demonstrates commitment by supporting and enforcing the Information Security Policy across the organization.",
+        "reference": "Management demonstrates commitment to information security by supporting and enforcing the Information Security Policy across the organization."
+    },
+    {
+        "question": "What does the document state about: \"Risk Assessment\"?",
+        "answer": "The organization conducts risk assessments to identify threats, vulnerabilities, and impacts to information assets.",
+        "reference": "Risk assessments are conducted to identify threats, vulnerabilities, and impacts to the organization's information assets."
+    },
+    {
+        "question": "What does the document state about: \"Risk Treatment\"?",
+        "answer": "Risk treatment plans are implemented to address identified risks through mitigation, transfer, acceptance, or avoidance.",
+        "reference": "Risk treatment plans are developed and implemented to address identified risks through mitigation, transfer, acceptance, or avoidance."
+    },
+    {
+        "question": "What does the document state about: \"Access Control Policy\"?",
+        "answer": "Access to information and systems is granted based on business needs and security requirements.",
+        "reference": "Access control policies ensure that access to information and systems is granted based on business needs and security requirements."
+    },
+    {
+        "question": "What does the document state about: \"User Responsibilities\"?",
+        "answer": "Users are responsible for safeguarding their authentication credentials and reporting security incidents.",
+        "reference": "Users must safeguard their authentication credentials and immediately report any suspected security incidents."
+    },
+    {
+        "question": "What does the document state about: \"Acceptable Use Policy\"?",
+        "answer": "Acceptable use policies define permitted and prohibited activities when using organizational resources.",
+        "reference": "Acceptable use policies outline permitted and prohibited activities when accessing organizational resources."
+    },
+    {
+        "question": "What does the document state about: \"Information Classification\"?",
+        "answer": "Information assets are classified according to their sensitivity and criticality to the organization.",
+        "reference": "Information is classified according to sensitivity and criticality to ensure appropriate protection measures are applied."
+    },
+    {
+        "question": "What does the document state about: \"Information Labelling\"?",
+        "answer": "Labels are applied to information based on its classification to ensure proper handling.",
+        "reference": "Information is labelled according to its classification to guide appropriate handling and protection."
+    },
+    {
+        "question": "What does the document state about: \"Information Handling\"?",
+        "answer": "Handling procedures must ensure the protection of information throughout its lifecycle.",
+        "reference": "Information handling procedures must ensure the protection of information throughout its lifecycle."
+    },
+    {
+        "question": "What does the document state about: \"Physical Security\"?",
+        "answer": "Physical security controls protect information processing facilities from unauthorized access, damage, and interference.",
+        "reference": "Physical security measures protect information processing facilities against unauthorized access, damage, and interference."
+    },
+    {
+        "question": "What does the document state about: \"Environmental Security\"?",
+        "answer": "Environmental controls safeguard against risks such as fire, flood, and other natural or man-made hazards.",
+        "reference": "Environmental controls protect facilities from risks including fire, flood, and other natural or man-made hazards."
+    },
+    {
+        "question": "What does the document state about: \"Equipment Security\"?",
+        "answer": "Security measures ensure the protection of equipment from loss, damage, theft, or compromise.",
+        "reference": "Equipment security controls protect against loss, damage, theft, or compromise."
+    },
+    {
+        "question": "What does the document state about: \"Operational Procedures\"?",
+        "answer": "Documented procedures are maintained for all operational activities affecting information security.",
+        "reference": "Operational procedures are documented and maintained for activities that impact information security."
+    },
+    {
+        "question": "What does the document state about: \"Change Management\"?",
+        "answer": "Changes to information systems must follow a formal change management process to minimize risks.",
+        "reference": "A formal change management process is required for all changes to information systems to minimize security risks."
+    },
+    {
+        "question": "What does the document state about: \"Incident Management\"?",
+        "answer": "Security incidents must be reported promptly and handled according to established procedures.",
+        "reference": "All security incidents must be reported immediately and managed according to incident handling procedures."
+    },
+    {
+        "question": "What does the document state about: \"Business Continuity Management\"?",
+        "answer": "Plans are established to ensure information security continuity during disruptions.",
+        "reference": "Business continuity plans ensure that information security is maintained during disruptions."
+    },
+    {
+        "question": "What does the document state about: \"System Acquisition, Development and Maintenance\"?",
+        "answer": "Security requirements must be integrated into the acquisition, development, and maintenance of information systems.",
+        "reference": "Security requirements are incorporated into system acquisition, development, and maintenance processes."
+    },
+    {
+        "question": "What does the document state about: \"Supplier Relationships\"?",
+        "answer": "Security requirements must be addressed in agreements with suppliers who have access to organizational information.",
+        "reference": "Supplier agreements must include information security requirements when suppliers have access to organizational information."
+    },
+    {
+        "question": "What does the document state about: \"Compliance with Legal Requirements\"?",
+        "answer": "The organization complies with applicable laws, regulations, and contractual obligations regarding information security.",
+        "reference": "Compliance with legal, regulatory, and contractual obligations related to information security is mandatory."
+    },
+    {
+        "question": "What does the document state about: \"Monitoring and Review\"?",
+        "answer": "Information security controls are monitored and reviewed regularly to ensure effectiveness.",
+        "reference": "Security controls are subject to regular monitoring and review to ensure their continued effectiveness."
+    },
+    {
+        "question": "What does the document state about: \"Security Awareness and Training\"?",
+        "answer": "Employees receive regular training to understand their information security responsibilities.",
+        "reference": "Security awareness and training programs ensure employees understand and fulfil their information security responsibilities."
+    },
+    {
+        "question": "What does the document state about: \"Audit and Evaluation\"?",
+        "answer": "Regular audits evaluate the effectiveness of information security management systems.",
+        "reference": "Information security management systems are audited regularly to evaluate their effectiveness."
+    },
+    {
+        "question": "What does the document state about: \"Password Policy\"?",
+        "answer": "Passwords must be strong, confidential, and changed periodically.",
+        "reference": "Password policy requires passwords to be strong, kept confidential, and changed periodically."
+    },
+    {
+        "question": "What does the document state about: \"Encryption Policy\"?",
+        "answer": "Sensitive information must be encrypted during transmission and storage.",
+        "reference": "Encryption is required for sensitive information during transmission and storage."
+    },
+    {
+        "question": "What does the document state about: \"Policy Review\"?",
+        "answer": "The Information Security Policy is reviewed periodically to ensure relevance and effectiveness.",
+        "reference": "This Information Security Policy is reviewed regularly to ensure it remains relevant and effective."
+    }
+]

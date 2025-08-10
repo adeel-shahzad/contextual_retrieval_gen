@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the primary objective of the procurement process?",
+        "answer": "The primary objective is to acquire goods and services in a transparent, efficient, and cost-effective manner.",
+        "reference": "The procurement process aims to acquire goods and services while ensuring transparency, efficiency, and cost-effectiveness."
+    },
+    {
+        "question": "Who is responsible for approving high-value procurement contracts?",
+        "answer": "High-value contracts are approved by the Procurement Committee or designated authority as per policy.",
+        "reference": "Approval for high-value contracts lies with the Procurement Committee or a delegated authority defined in policy."
+    },
+    {
+        "question": "What does 'Vendor Qualification' involve?",
+        "answer": "It involves assessing potential suppliers to ensure they meet required standards before engagement.",
+        "reference": "Vendor Qualification assesses suppliers against set standards before awarding contracts."
+    },
+    {
+        "question": "What is the role of the end-user department in procurement?",
+        "answer": "The end-user department identifies requirements, prepares specifications, and confirms receipt of goods or services.",
+        "reference": "End-user departments identify needs, prepare specifications, and confirm receipt."
+    },
+    {
+        "question": "What is the significance of a purchase requisition?",
+        "answer": "A purchase requisition formally requests procurement of goods or services, initiating the process.",
+        "reference": "Purchase requisition is a formal document initiating the procurement process."
+    },
+    {
+        "question": "What does 'Competitive Bidding' aim to achieve?",
+        "answer": "It ensures fairness, transparency, and value for money by inviting multiple bids.",
+        "reference": "Competitive Bidding invites multiple bids to ensure fairness, transparency, and value for money."
+    },
+    {
+        "question": "When is a sole source procurement justified?",
+        "answer": "It is justified when only one supplier can provide the required goods or services due to uniqueness or urgency.",
+        "reference": "Sole source procurement is allowed when the supplier is unique or urgent needs exist."
+    },
+    {
+        "question": "What is the purpose of a contract performance evaluation?",
+        "answer": "It assesses supplier performance against contractual obligations to ensure compliance and quality.",
+        "reference": "Contract performance evaluation reviews compliance and quality against contractual terms."
+    },
+    {
+        "question": "What does 'Procurement Planning' involve?",
+        "answer": "It involves forecasting needs, budgeting, and scheduling procurement activities.",
+        "reference": "Procurement Planning forecasts needs, allocates budgets, and schedules procurement activities."
+    },
+    {
+        "question": "What is the definition of 'Conflict of Interest' in procurement?",
+        "answer": "It refers to situations where personal interests could improperly influence procurement decisions.",
+        "reference": "Conflict of Interest is when personal interests may improperly influence procurement outcomes."
+    }
+]

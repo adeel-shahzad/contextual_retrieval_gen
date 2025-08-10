@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What does the document state about: \"Purpose of HR Bylaws\"?",
+        "answer": "The HR Bylaws define the principles, rules, and regulations governing human resource management within the organization.",
+        "reference": "The purpose of these HR Bylaws is to outline the principles, rules, and regulations that govern the management of human resources within the organization."
+    },
+    {
+        "question": "What does the document state about: \"Scope of HR Bylaws\"?",
+        "answer": "These bylaws apply to all employees of the organization, including full-time, part-time, and temporary staff.",
+        "reference": "These HR Bylaws apply to all employees of the organization, whether full-time, part-time, or temporary."
+    },
+    {
+        "question": "What does the document state about: \"Employment Categories\"?",
+        "answer": "Employment categories include permanent, temporary, and contract-based employees.",
+        "reference": "Employment categories include permanent employees, temporary employees, and contract-based employees."
+    },
+    {
+        "question": "What does the document state about: \"Recruitment Principles\"?",
+        "answer": "Recruitment is based on fairness, transparency, and merit, ensuring equal opportunity for all candidates.",
+        "reference": "Recruitment must be conducted in a fair, transparent, and merit-based manner to ensure equal opportunities for all candidates."
+    },
+    {
+        "question": "What does the document state about: \"Probationary Period\"?",
+        "answer": "Employees undergo a probationary period during which their performance and suitability are evaluated.",
+        "reference": "All newly hired employees must complete a probationary period during which their performance and suitability for the role are evaluated."
+    },
+    {
+        "question": "What does the document state about: \"Working Hours\"?",
+        "answer": "Working hours are defined by organizational policy and must comply with applicable labor laws.",
+        "reference": "Working hours are set according to organizational policy and must be in compliance with labor laws."
+    },
+    {
+        "question": "What does the document state about: \"Leave Entitlements\"?",
+        "answer": "Employees are entitled to annual leave, sick leave, maternity/paternity leave, and other statutory leave types.",
+        "reference": "Leave entitlements include annual leave, sick leave, maternity/paternity leave, and other statutory leaves as defined by law."
+    },
+    {
+        "question": "What does the document state about: \"Performance Management\"?",
+        "answer": "Performance is assessed through regular reviews against predefined objectives and competencies.",
+        "reference": "Performance management involves regular assessments of employee performance against predefined objectives and competencies."
+    },
+    {
+        "question": "What does the document state about: \"Training and Development\"?",
+        "answer": "The organization supports continuous learning through training, workshops, and development programs.",
+        "reference": "Training and development initiatives include courses, workshops, and other learning opportunities to enhance employee skills."
+    },
+    {
+        "question": "What does the document state about: \"Compensation and Benefits\"?",
+        "answer": "Compensation includes salaries, bonuses, and allowances, while benefits cover healthcare, retirement plans, and other perks.",
+        "reference": "Compensation consists of salaries, bonuses, and allowances. Benefits include healthcare, retirement plans, and additional perks."
+    },
+    {
+        "question": "What does the document state about: \"Employee Conduct\"?",
+        "answer": "Employees must adhere to ethical standards, maintain professionalism, and comply with organizational policies.",
+        "reference": "Employees are required to maintain high ethical standards, act professionally, and comply with all organizational policies."
+    },
+    {
+        "question": "What does the document state about: \"Code of Ethics\"?",
+        "answer": "The Code of Ethics outlines expected behaviors, prohibiting discrimination, harassment, and conflicts of interest.",
+        "reference": "The Code of Ethics prohibits discrimination, harassment, and conflicts of interest, and outlines the expected conduct of employees."
+    },
+    {
+        "question": "What does the document state about: \"Grievance Procedures\"?",
+        "answer": "Employees may file grievances through established procedures to resolve workplace disputes.",
+        "reference": "Employees have the right to raise grievances using the formal grievance procedures to resolve workplace disputes."
+    },
+    {
+        "question": "What does the document state about: \"Disciplinary Actions\"?",
+        "answer": "Disciplinary measures may include verbal warnings, written warnings, suspension, or termination.",
+        "reference": "Disciplinary actions can range from verbal and written warnings to suspension or termination of employment."
+    },
+    {
+        "question": "What does the document state about: \"Termination of Employment\"?",
+        "answer": "Termination may occur due to resignation, retirement, redundancy, or dismissal for cause.",
+        "reference": "Employment may be terminated through resignation, retirement, redundancy, or dismissal for cause."
+    },
+    {
+        "question": "What does the document state about: \"Retirement Policy\"?",
+        "answer": "Employees retire at the age specified by law or organizational policy, with applicable retirement benefits.",
+        "reference": "Employees are eligible for retirement at the age specified by applicable laws, receiving the benefits stipulated by policy."
+    },
+    {
+        "question": "What does the document state about: \"Health and Safety\"?",
+        "answer": "The organization ensures a safe working environment by implementing health and safety regulations.",
+        "reference": "Health and safety regulations are implemented to ensure a safe working environment for all employees."
+    },
+    {
+        "question": "What does the document state about: \"Equal Employment Opportunity\"?",
+        "answer": "The organization provides equal employment opportunities regardless of race, gender, religion, or other status.",
+        "reference": "Equal employment opportunity is provided to all individuals without discrimination based on race, gender, religion, or other status."
+    },
+    {
+        "question": "What does the document state about: \"Anti-Discrimination Policy\"?",
+        "answer": "The policy prohibits discrimination in recruitment, promotion, compensation, and other employment practices.",
+        "reference": "Discrimination is prohibited in all employment practices, including recruitment, promotion, and compensation."
+    },
+    {
+        "question": "What does the document state about: \"Harassment Policy\"?",
+        "answer": "Harassment of any kind is strictly prohibited and subject to disciplinary action.",
+        "reference": "Any form of harassment is strictly prohibited and will result in disciplinary action."
+    },
+    {
+        "question": "What does the document state about: \"Conflict of Interest\"?",
+        "answer": "Employees must avoid situations where personal interests conflict with organizational interests.",
+        "reference": "Employees must disclose and avoid situations where personal interests may conflict with the organization's interests."
+    },
+    {
+        "question": "What does the document state about: \"Attendance and Punctuality\"?",
+        "answer": "Employees are expected to maintain regular attendance and be punctual.",
+        "reference": "Employees must maintain regular attendance and adhere to scheduled working hours."
+    },
+    {
+        "question": "What does the document state about: \"Overtime Policy\"?",
+        "answer": "Overtime work requires prior approval and is compensated according to labor laws.",
+        "reference": "Overtime must be approved in advance and compensated in line with applicable labor laws."
+    },
+    {
+        "question": "What does the document state about: \"Travel Policy\"?",
+        "answer": "Business travel must be authorized and reimbursed according to policy guidelines.",
+        "reference": "All business travel requires prior authorization and will be reimbursed according to the travel policy."
+    },
+    {
+        "question": "What does the document state about: \"Remote Work Policy\"?",
+        "answer": "Remote work arrangements must be approved and comply with performance and security requirements.",
+        "reference": "Remote work must be approved by management and meet performance and security requirements."
+    },
+    {
+        "question": "What does the document state about: \"Training Obligations\"?",
+        "answer": "Employees are expected to participate in mandatory training sessions relevant to their role.",
+        "reference": "Employees must attend all mandatory training sessions assigned to their role."
+    },
+    {
+        "question": "What does the document state about: \"Promotions\"?",
+        "answer": "Promotions are based on merit, performance, and organizational needs.",
+        "reference": "Promotions are granted based on merit, performance evaluations, and organizational requirements."
+    },
+    {
+        "question": "What does the document state about: \"Demotions\"?",
+        "answer": "Demotions may occur due to performance issues or organizational restructuring.",
+        "reference": "Employees may be demoted as a result of poor performance or organizational restructuring."
+    },
+    {
+        "question": "What does the document state about: \"Policy Review\"?",
+        "answer": "The HR Bylaws are reviewed periodically to ensure alignment with laws and best practices.",
+        "reference": "These HR Bylaws are reviewed regularly to maintain compliance with laws and industry best practices."
+    }
+]

@@ -1,0 +1,50 @@
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.build/
+dist/
+build/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Notebooks (if any)
+.ipynb_checkpoints/
+
+# Env & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Logs & runtime
+*.log
+*.sqlite3
+
+# LLM/RAG generated artifacts
+storage/
+output.md
+
+# Ollama / models cache (if any)
+.models/
+.cache/
+
+# Node (if you ever add UI bits)
+node_modules/
+
+# Poetry / PDM (if used later)
+poetry.lock
+.pdm.toml
+.pdm.lock

@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What does the document state about: \"Purpose of the Procurement Manual\"?",
+        "answer": "The Procurement Manual provides operational procedures to the Procurement practitioners. It reinforces the Procurement Standards, the Procurement Charter, and the Procurement Delegation of Authority (PDoA), giving a more detailed explanation of their application.",
+        "reference": "The Procurement Manual provides operational procedures to the Procurement practitioners. It reinforces the Procurement Standards, the Procurement Charter, and the Procurement Delegation of Authority (PDoA), giving a more detailed explanation of their application."
+    },
+    {
+        "question": "What does the document state about: \"Scope of the Procurement Manual\"?",
+        "answer": "The Procurement Manual applies to all procurement activities conducted by the government Entities and the Government Procurement Office (GPO).",
+        "reference": "The Procurement Manual applies to all procurement activities conducted by the government Entities and the Government Procurement Office (GPO). The Executive Council (EC), or a relevant body authorised by the EC, may exclude an Entity from the application of the Procurement Manual."
+    },
+    {
+        "question": "What does the document state about: \"List of Exemptions\"?",
+        "answer": "The Procurement Manual does not apply to staff salaries, direct employment contracts, general administration expenses, inter-government agreements, sponsorships, purchase of artworks, certain copyrights, travel reimbursements, mandatory fees, and EC-approved exceptions.",
+        "reference": "The Procurement Manual does not apply to: Staff salaries and benefits; Direct employment contracts; General and administration expenses; Agreements among government Entities; Sponsorships and grants; Purchase of artworks and artifacts; Copyrights license fees except in certain cases; Reimbursement of ad hoc travel expenses; Mandatory or Regulatory fees; and EC-approved exceptions."
+    },
+    {
+        "question": "What does the document state about: \"Structure of the Manual\"?",
+        "answer": "The manual is aligned to the Procurement Capability Model and integrates SAP Ariba modules for each process group.",
+        "reference": "The structure of the Procurement Manual is aligned to the Procurement Capability Model and procurement process groups are enabled through SAP Ariba modules."
+    },
+    {
+        "question": "What does the document state about: \"Overview of SAP Ariba modules\"?",
+        "answer": "SAP Ariba modules are used to enable procurement process groups, with dedicated business and system aspects described in the manual.",
+        "reference": "Procurement process groups are enabled through SAP Ariba modules, with sections marked (B) for business aspects and (S) for SAP Ariba aspects."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Operating Model\"?",
+        "answer": "The Procurement Operating Model defines the mandate, empowerment, and responsibilities of the Government Procurement Office and Entity Procurement.",
+        "reference": "The Procurement consists of the Government Procurement Office (GPO) and Entity Procurement. The Procurement Operating Model provides mandate, empowerment, and responsibilities of the GPO and Entity Procurement."
+    },
+    {
+        "question": "What does the document state about: \"Objectives of the GPO\"?",
+        "answer": "The GPO consolidates demand for common categories, provides shared services, maintains the procurement framework, develops IT platforms, and fosters private sector partnerships.",
+        "reference": "The Government Procurement Office (GPO) is established to consolidate demand for common categories, provide shared services, maintain the procurement framework, develop IT platforms, and manage partnerships with the private sector."
+    },
+    {
+        "question": "What does the document state about: \"Category Classification\"?",
+        "answer": "Categories are classified as Common or Entity-Specific based on spend value and usage across entities.",
+        "reference": "Classification of a category as a Common Category or an Entity-Specific Category depends on spend value and its commonality across Entities."
+    },
+    {
+        "question": "What does the document state about: \"Category Taxonomy\"?",
+        "answer": "Category taxonomy uses UNSPSC codes in SAP Ariba to classify goods and services in a four-level hierarchy.",
+        "reference": "Category taxonomy refers to a hierarchical assignment of goods/services, with UNSPSC deployed in SAP Ariba using a four-level, eight-digit code system."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Capability Model\"?",
+        "answer": "The model defines four capability types: Strategic, Tactical, Operational, and Support, each with specific process groups.",
+        "reference": "The Procurement Capability Model comprises Strategic Procurement Capability, Tactical Procurement Capability, Operational Procurement Capability, and Supporting Capability."
+    },
+    {
+        "question": "What does the document state about: \"Strategic Procurement Capability\"?",
+        "answer": "Strategic Procurement Capability includes developing procurement strategy and category management to deliver value and cost savings.",
+        "reference": "Strategic Procurement Capability process group includes procedures to develop strategy for the procurement function and category management to bridge demand-supply gaps."
+    },
+    {
+        "question": "What does the document state about: \"Tactical Procurement Capability\"?",
+        "answer": "Tactical capability covers Source to Contract, Contract Lifecycle Management, and Supplier Performance and Relationship Management.",
+        "reference": "Tactical Procurement Capability process group includes Source to Contract, Contract Lifecycle Management, and Supplier Performance and Relationship Management."
+    },
+    {
+        "question": "What does the document state about: \"Operational Procurement Capability\"?",
+        "answer": "Operational capability includes the Requisition to Pay process group for creating requisitions, purchase orders, and invoice reconciliation.",
+        "reference": "Operational Procurement Capability process group includes procedures to create purchase requisitions, purchase orders, receive goods, and reconcile invoices."
+    },
+    {
+        "question": "What does the document state about: \"Supporting Capability\"?",
+        "answer": "Supporting capability covers Risk and Regulation, Supplier Master Data Management, Item Master Data Management, and User Master Data Management.",
+        "reference": "Supporting Capability process group includes Risk and Regulation, Supplier MDM, Item MDM, and User MDM."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Benefits\"?",
+        "answer": "Procurement Benefits aim to improve cost-effectiveness, performance, and value for money through economies of scale and streamlined processes.",
+        "reference": "Procurement Benefits drive cost-effectiveness and improvement in performance through economies of scale, specialisation, and continuous assessment."
+    },
+    {
+        "question": "What does the document state about: \"Abu Dhabi Local Content\"?",
+        "answer": "Abu Dhabi Local Content policy promotes local suppliers' participation in procurement activities.",
+        "reference": "Abu Dhabi Local Content (ADLC) is listed under legislations applicable for Procurement to promote local economic participation."
+    },
+    {
+        "question": "What does the document state about: \"Economic Incentives for MSMEs\"?",
+        "answer": "Economic incentives are provided for Micro, Small, and Medium Enterprises to enhance their role in procurement.",
+        "reference": "Economic Incentives for MSMEs encourage local business growth and participation in government procurement."
+    },
+    {
+        "question": "What does the document state about: \"Economic Incentives for Emirati Entrepreneurs\"?",
+        "answer": "Special incentives are offered to Emirati entrepreneurs to promote their engagement in procurement.",
+        "reference": "Economic Incentives for Emirati Entrepreneurs are among legislations to foster Emirati entrepreneurship in procurement."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Strategy Overview\"?",
+        "answer": "The strategy process group aligns procurement strategies with organizational objectives.",
+        "reference": "Procurement Strategy includes developing strategies for procurement functions aligned with the organization's goals."
+    },
+    {
+        "question": "What does the document state about: \"Demand and Category Management Overview\"?",
+        "answer": "Demand and Category Management focuses on category strategies and procurement planning in SAP Ariba.",
+        "reference": "Demand and Category Management process group includes creating category strategies and procurement plans, supported by SAP Ariba modules."
+    },
+    {
+        "question": "What does the document state about: \"Source to Contract Overview\"?",
+        "answer": "This process includes sourcing, awarding suppliers, and managing sourcing events in SAP Ariba.",
+        "reference": "Source to Contract covers sourcing and awarding suppliers using SAP Ariba tools and processes."
+    },
+    {
+        "question": "What does the document state about: \"Contract Lifecycle Management Overview\"?",
+        "answer": "CLM includes creating, managing, and closing contracts using SAP Ariba.",
+        "reference": "Contract Lifecycle Management covers contract creation, management, and closure, integrated with SAP Ariba."
+    },
+    {
+        "question": "What does the document state about: \"Supplier Performance and Relationship Management Overview\"?",
+        "answer": "SPRM involves supplier segmentation, performance tracking, and relationship management in SAP Ariba.",
+        "reference": "Supplier Performance and Relationship Management process group includes segmenting suppliers, managing relationships, and evaluating performance using SAP Ariba."
+    },
+    {
+        "question": "What does the document state about: \"Requisition to Pay Overview\"?",
+        "answer": "Requisition to Pay covers creating PRs and POs, receiving goods/services, and reconciling invoices in SAP Ariba.",
+        "reference": "Requisition to Pay process group includes purchase requisition, purchase order creation, goods receipt, and invoice reconciliation via SAP Ariba."
+    },
+    {
+        "question": "What does the document state about: \"Risk and Regulation Overview\"?",
+        "answer": "Risk and Regulation processes assess procurement risks, ensure compliance, and manage regulations.",
+        "reference": "Risk and Regulation process group covers risk profiling, mitigation, and regulatory compliance."
+    },
+    {
+        "question": "What does the document state about: \"Supplier Master Data Management Overview\"?",
+        "answer": "Supplier MDM handles supplier registration, qualification, and master data maintenance in SAP Ariba.",
+        "reference": "Supplier Master Data Management covers supplier lifecycle management including registration, qualification, and updates in SAP Ariba."
+    },
+    {
+        "question": "What does the document state about: \"Item Master Data Management Overview\"?",
+        "answer": "Item MDM manages adding, modifying, and removing goods/services from the database in SAP Ariba.",
+        "reference": "Item Master Data Management covers adding, modifying, and removing goods/services from master data in SAP Ariba."
+    },
+    {
+        "question": "What does the document state about: \"User Master Data Management Overview\"?",
+        "answer": "User MDM manages enabling, modifying, delegating, and deactivating SAP Ariba users.",
+        "reference": "User Master Data Management covers enabling, modifying, delegating, and deactivating SAP Ariba users."
+    },
+    {
+        "question": "What does the document state about: \"Importance of Procurement Standards\"?",
+        "answer": "All procurement processes must align with Procurement Standards to maintain compliance and consistency.",
+        "reference": "Important Note: All procurement processes must be executed in line with the Procurement Standards."
+    },
+    {
+        "question": "What does the document state about: \"Purpose of RACI Matrix\"?",
+        "answer": "The RACI Matrix clarifies roles and responsibilities for procurement processes in SAP Ariba.",
+        "reference": "RACI Matrix defines the roles and responsibilities in procurement processes enabled by SAP Ariba."
+    }
+]

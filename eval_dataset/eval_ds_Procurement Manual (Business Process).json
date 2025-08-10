@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What does the document state about: \"The Procurement Manual provides operational procedures\"?",
+        "answer": "The Procurement Manual provides operational procedures to the Procurement practitioners. It reinforces the Procurement Standards, the Procurement Charter, and the Procurement Delegation of Authority (PDoA), giving a more detailed explanation of their application.",
+        "reference": "The Procurement Manual provides operational procedures to the Procurement practitioners. It reinforces the Procurement Standards, the Procurement Charter, and the Procurement Delegation of Authority (PDoA), giving a more detailed explanation of their application. The Procurement Manual applies to all procurement activities conducted by the government Entities and the Government Procurement Office (GPO)."
+    },
+    {
+        "question": "What does the document state about: \"The Procurement Manual applies to all procurement activities\"?",
+        "answer": "The Procurement Manual applies to all procurement activities conducted by the government Entities and the Government Procurement Office (GPO).",
+        "reference": "The Procurement Manual applies to all procurement activities conducted by the government Entities and the Government Procurement Office (GPO). The Executive Council (EC), or a relevant body authorised by the EC, may exclude an Entity from the application of the Procurement Manual."
+    },
+    {
+        "question": "What does the document state about: \"The Procurement Manual does not apply to\"?",
+        "answer": "The Procurement Manual does not apply to staff salaries and benefits, direct employment contracts, general administration expenses, agreements among government entities, sponsorships, purchase of artworks, copyrights license fees, reimbursement of travel expenses, mandatory fees, and other exceptions approved by the Executive Council.",
+        "reference": "The Procurement Manual does not apply to: Staff salaries and benefits; Direct employment contracts; General and administration expenses; Agreements among government Entities; Sponsorships and grants; Purchase of artworks, artifacts; Copyrights license fees except in contractual obligations; Reimbursement of ad hoc expenses; Mandatory or Regulatory fees; Any other exceptions approved by the Executive Council."
+    },
+    {
+        "question": "What does the document state about: \"Structure of the Procurement Manual\"?",
+        "answer": "The structure of the Procurement Manual is aligned to the Procurement Capability Model, dividing procurement capabilities into Strategic, Tactical, Operational, and Support capabilities.",
+        "reference": "The structure of the Procurement Manual is aligned to the Procurement Capability Model: Level 1 - Procurement capabilities are classified into Strategic, Tactical, Operational, and Support capabilities. Level 2 - Each procurement capability includes one or more procurement process group. Level 3 - Each procurement process group consists of procurement processes."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Operating Model\"?",
+        "answer": "The Procurement Operating Model provides the mandate, empowerment, and responsibilities of the Government Procurement Office (GPO) and Entity Procurement.",
+        "reference": "The Procurement consists of the Government Procurement Office (GPO) and Entity Procurement. The Procurement Operating Model provides mandate, empowerment, and responsibilities of the Government Procurement Office (GPO) and Entity Procurement."
+    },
+    {
+        "question": "What does the document state about: \"Objectives of the Government Procurement Office\"?",
+        "answer": "The Government Procurement Office is established to consolidate demand for economies of scale, manage common categories, provide shared services, maintain the procurement framework, develop IT platforms, and manage partnerships with the private sector.",
+        "reference": "The Government Procurement Office (GPO) is established to fulfil objectives including: consolidating demand for economies of scale, managing common categories, providing shared services, maintaining the procurement framework, developing IT platforms for procurement (eGate), and managing partnerships with the private sector."
+    },
+    {
+        "question": "What does the document state about: \"Category Classification\"?",
+        "answer": "Categories are classified into Common Categories, managed by GPO, and Entity-Specific Categories, managed by the respective Entity.",
+        "reference": "Categories are classified into Common Categories and Entity-Specific Categories. The GPO manages sourcing for Common Categories, while Entity-Specific Categories are managed by the respective Entity."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Capability Model\"?",
+        "answer": "The Procurement Capability Model comprises Strategic, Tactical, Operational, and Support capabilities, each with specific process groups.",
+        "reference": "The Procurement Capability Model comprises Strategic Procurement Capability, Tactical Procurement Capability, Operational Procurement Capability, and Supporting Capability, each containing defined process groups."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Benefits\"?",
+        "answer": "Procurement Benefits include cost-effectiveness, improved performance, and economies of scale, supported by defined calculation methodologies.",
+        "reference": "Procurement Benefits: drive cost-effectiveness and improvement in performance of the Procurement through economies of scale, specialisation, and continuous assessment. Includes definitions, general principles, and calculation methodologies."
+    },
+    {
+        "question": "What does the document state about: \"Abu Dhabi Local Content\"?",
+        "answer": "Abu Dhabi Local Content (ADLC) is a legislative requirement applicable to procurement to support local economy and suppliers.",
+        "reference": "Abu Dhabi Local Content (ADLC) is listed under legislations applicable for Procurement to promote local economic participation."
+    },
+    {
+        "question": "What does the document state about: \"Economic Incentives for MSMEs\"?",
+        "answer": "Economic incentives are provided for Micro, Small, and Medium Enterprises to support their participation in procurement.",
+        "reference": "Economic Incentives for MSMEs (Micro, Small, and Medium Enterprises) are among the legislations applicable for Procurement to encourage local business growth."
+    },
+    {
+        "question": "What does the document state about: \"Economic Incentives for Emirati Entrepreneurs\"?",
+        "answer": "Special economic incentives are offered to Emirati entrepreneurs to promote their involvement in procurement activities.",
+        "reference": "Economic Incentives for Emirati Entrepreneurs are part of applicable legislations to foster Emirati entrepreneurship in procurement."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Strategy Overview\"?",
+        "answer": "The Procurement Strategy process group includes developing strategies for procurement in line with organizational goals.",
+        "reference": "Procurement Strategy: Overview outlines the purpose, scope, procedures, and roles for developing procurement strategies aligned with the organization's objectives."
+    },
+    {
+        "question": "What does the document state about: \"Demand and Category Management Overview\"?",
+        "answer": "This process group focuses on developing category strategies and procurement plans to meet demand efficiently.",
+        "reference": "Demand and Category Management (DCM) includes developing 'Category Strategy' and 'Procurement Plan' to bridge demand-supply gaps."
+    },
+    {
+        "question": "What does the document state about: \"Source to Contract Overview\"?",
+        "answer": "Source to Contract covers sourcing activities and contract awards to suppliers.",
+        "reference": "Source to Contract (S2C) process group includes conducting sourcing and awarding suppliers, detailed in procedures and methodologies."
+    },
+    {
+        "question": "What does the document state about: \"Contract Lifecycle Management Overview\"?",
+        "answer": "Contract Lifecycle Management involves creating, managing, and closing contracts in compliance with procurement standards.",
+        "reference": "Contract Lifecycle Management (CLM) covers procedures for contract creation, management, and closure."
+    },
+    {
+        "question": "What does the document state about: \"Supplier Performance and Relationship Management Overview\"?",
+        "answer": "SPRM manages supplier segmentation, performance evaluation, and relationship improvement.",
+        "reference": "Supplier Performance and Relationship Management process group includes segmenting suppliers, managing relationships, and evaluating performance."
+    },
+    {
+        "question": "What does the document state about: \"Requisition to Pay Overview\"?",
+        "answer": "Requisition to Pay includes creating purchase requisitions, purchase orders, receiving goods, and invoice reconciliation.",
+        "reference": "Requisition to Pay (R2P) process group covers procedures to create PRs, POs, receive goods/services, and reconcile invoices."
+    },
+    {
+        "question": "What does the document state about: \"Risk and Regulations Overview\"?",
+        "answer": "Risk and Regulations processes identify, assess, and mitigate procurement risks and ensure compliance with regulations.",
+        "reference": "Risk and Regulations (R&R) includes conducting risk profiling, identifying procurement risks, and implementing regulatory changes."
+    },
+    {
+        "question": "What does the document state about: \"Supplier Master Data Management Overview\"?",
+        "answer": "Supplier Master Data Management handles supplier registration, updates, and related master data activities.",
+        "reference": "Supplier Master Data Management process group includes registering, qualifying, and maintaining supplier information."
+    },
+    {
+        "question": "What does the document state about: \"Item Master Data Management Overview\"?",
+        "answer": "This process group manages adding, modifying, and deleting items from the master data system.",
+        "reference": "Item Master Data Management covers procedures for maintaining accurate item data."
+    },
+    {
+        "question": "What does the document state about: \"User Master Data Management Overview\"?",
+        "answer": "User Master Data Management involves managing user profiles and access rights for procurement systems.",
+        "reference": "User Master Data Management includes enabling, modifying, and deactivating users in procurement systems."
+    },
+    {
+        "question": "What does the document state about: \"Importance of Procurement Standards\"?",
+        "answer": "All procurement processes must comply with the Procurement Standards to ensure consistency and legality.",
+        "reference": "Important Note: All procurement processes must be executed in line with the Procurement Standards."
+    },
+    {
+        "question": "What does the document state about: \"Role of Work Aids\"?",
+        "answer": "Work aids are templates and documents provided by GPO to standardize procurement processes.",
+        "reference": "Work Aids – Forms and Documents section provides best practice templates issued and maintained by the GPO."
+    },
+    {
+        "question": "What does the document state about: \"Procurement Practitioners' Guidance\"?",
+        "answer": "The manual highlights key roles, business terms, and document formats to help practitioners follow standards.",
+        "reference": "Procurement practitioners should note that key roles are in bold Italic, key business terms in Upper Case, and key documents in single quotes."
+    },
+    {
+        "question": "What does the document state about: \"Role of SAP Ariba in Supplier MDM\"?",
+        "answer": "The Supplier Master Data Management process group is executed entirely by the GPO using SAP Ariba.",
+        "reference": "Supplier Master Data Management process group is executed entirely by Government Procurement Office (GPO) using SAP Ariba."
+    },
+    {
+        "question": "What does the document state about: \"Highlighting compliance matters\"?",
+        "answer": "Matters critical for compliance are marked as Important Notes within the manual.",
+        "reference": "Matters critical from a feasibility or compliance perspective are highlighted as Important Notes."
+    },
+    {
+        "question": "What does the document state about: \"Reference to other sections\"?",
+        "answer": "References to other parts of the manual are underlined italics for easy navigation.",
+        "reference": "Reference to other documents or sections within the manual are highlighted as underlined italics."
+    },
+    {
+        "question": "What does the document state about: \"Purpose of RACI Matrix\"?",
+        "answer": "The RACI Matrix defines roles and responsibilities for each process to ensure clarity in execution.",
+        "reference": "RACI Matrix provides clarity on roles and responsibilities for each procurement process."
+    },
+    {
+        "question": "What does the document state about: \"Role of GPO in procurement\"?",
+        "answer": "The GPO consolidates demand, manages common categories, provides shared services, and maintains procurement frameworks.",
+        "reference": "The Government Procurement Office (GPO) consolidates demand for economies of scale, manages common categories, provides shared services, maintains frameworks, and operates eGate."
+    }
+]
