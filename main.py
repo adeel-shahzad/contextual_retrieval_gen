@@ -3,7 +3,7 @@ import time
 import json
 import asyncio
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 from scripts.ingest import get_query_engine
 from agent.retrieval_agent import RetrievalAgent
 from agent.retrieval_tool import ContextualRetrievalTool
+from ragas_local.eval_local import execute_eval
 
 from openinference.instrumentation.llama_index import LlamaIndexInstrumentor
 from arize.otel import register
@@ -72,11 +73,23 @@ async def ask_question(chat_req: ChatRequest):
         top_k=20,
         return_sources=3
     )
-    if not chat_req.stream:
-        return response
-            
     return StreamingResponse(event_stream(response, chat_req), media_type="text/event-stream")
 
+@app.get("/api/ragas")
+async def get_ragas():
+    result = execute_eval(query_engine)  # get your EvaluationResult
+
+    # Try to get a dict from result
+    if hasattr(result, "dict"):
+        json_ready = result.dict()
+    elif hasattr(result, "__dict__"):
+        json_ready = result.__dict__
+    else:
+        json_ready = result  # fallback, if already a dict
+
+    # Serialize, allowing NaN and Infinity
+    json_str = json.dumps(json_ready, allow_nan=True)
+    return Response(content=json_str, media_type="application/json")
 
 async def event_stream(assistant_reply: str, chat_req: ChatRequest):
     tokens = assistant_reply.splitlines(keepends=True)
