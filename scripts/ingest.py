@@ -85,7 +85,7 @@ def get_query_engine(cohere_api_key=None):
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
     index = VectorStoreIndex([], storage_context=storage_context)
     return index.as_query_engine(
-        similarity_top_k=20,
+        similarity_top_k=3,
         node_postprocessors=[CohereRerank(api_key=cohere_api_key)] if cohere_api_key else None,
         llm=Settings.llm,
     )

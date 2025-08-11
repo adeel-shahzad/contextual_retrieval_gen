@@ -10,9 +10,17 @@ def init_settings():
     Settings.chunk_overlap = 50
 
     Settings.llm = Ollama(
+        # model="llama3.1:8b",
         model="llama3.2:1b",
+        base_url="http://localhost:11434",
+        # base_url="http://13.212.147.243:11434",
         request_timeout=120.0,
-        context_window=8000,
+        # LlamaIndex passes these to Ollama under "options"
+        additional_kwargs={"options": {
+            "num_ctx": 1024,       # try 2048–4096
+            "num_batch": 4,       # optional: reduce if still tight
+            # "num_gpu": 0,        # if CPU-only, make explicit
+        }}
     )
 
     Settings.embed_model = HuggingFaceEmbedding(

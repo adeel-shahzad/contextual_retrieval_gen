@@ -2,6 +2,7 @@ import os
 import time
 import json
 import asyncio
+import logging
 
 from fastapi import FastAPI, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
@@ -14,11 +15,14 @@ from dotenv import load_dotenv
 from scripts.ingest import get_query_engine
 from agent.retrieval_agent import RetrievalAgent
 from agent.retrieval_tool import ContextualRetrievalTool
-from ragas_local.eval_local import execute_eval
+# from ragas_local.eval_local import execute_eval
 
 from openinference.instrumentation.llama_index import LlamaIndexInstrumentor
 from arize.otel import register
 from getpass import getpass
+
+logging.basicConfig(level=logging.DEBUG)
+logging.getLogger("llama_index").setLevel(logging.DEBUG)
 
 # tracer_provider = register(project_name="rag-app", auto_instrument=True)
 # LlamaIndexInstrumentor().instrument(tracer_provider=tracer_provider)
@@ -70,8 +74,8 @@ async def ask_question(chat_req: ChatRequest):
     user_message = chat_req.messages[-1].content
     response = retrieval_tool.run(
         question=user_message,
-        top_k=20,
-        return_sources=3
+        top_k=3,
+        return_sources=2
     )
     return StreamingResponse(event_stream(response, chat_req), media_type="text/event-stream")
 
