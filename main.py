@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 from scripts.ingest import get_query_engine
 from agents.retrieval_agent import RetrievalAgent
-# from ragas_local.eval_local import execute_eval
+from ragas_local.eval_local import execute_eval
 
 from openinference.instrumentation.llama_index import LlamaIndexInstrumentor
 from arize.otel import register

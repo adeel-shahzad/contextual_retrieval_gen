@@ -77,7 +77,7 @@ def execute_eval(query_engine=None):
     print("Evaluating...")
     results = evaluate(
         ds,
-        metrics=[faithfulness, answer_relevancy, context_precision, context_recall],
+        metrics=[faithfulness, context_precision, context_recall],
         llm=openai_llm,
         embeddings=wrapped_embeddings,
         run_config=my_run_config,
