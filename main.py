@@ -13,8 +13,7 @@ from models.body import ChatRequest
 from dotenv import load_dotenv
 
 from scripts.ingest import get_query_engine
-from agent.retrieval_agent import RetrievalAgent
-from agent.retrieval_tool import ContextualRetrievalTool
+from agents.retrieval_agent import RetrievalAgent
 # from ragas_local.eval_local import execute_eval
 
 from openinference.instrumentation.llama_index import LlamaIndexInstrumentor
@@ -45,7 +44,6 @@ app.add_middleware(
 
 query_engine = None
 retrieval_agent = None
-retrieval_tool = None
 
 @app.on_event("startup")
 async def startup_event():
@@ -61,23 +59,27 @@ async def startup_event():
         tracer_provider=tracer_provider, skip_dep_check=True
     )
 
-    global query_engine, retrieval_tool
+    global query_engine, retrieval_agent
     query_engine = get_query_engine(cohere_api_key=os.getenv("COHERE_API_KEY"))
-    # retrieval_agent = RetrievalAgent(query_engine)
-    retrieval_tool = ContextualRetrievalTool()
-    retrieval_tool.set_query_engine(query_engine, return_sources_cap=3)
+    retrieval_agent = RetrievalAgent(query_engine)
     print("✅ FastAPI startup complete: query engine ready.")
 
 
 @app.post("/v1/chat/completions")
 async def ask_question(chat_req: ChatRequest):
+    if retrieval_agent is None:
+        raise HTTPException(status_code=500, detail="Retrieval agent not initialized.")
+
     user_message = chat_req.messages[-1].content
-    response = retrieval_tool.run(
+
+    # ✅ Run the agent/crew pipeline
+    assistant_reply = retrieval_agent.execute(
         question=user_message,
         top_k=3,
         return_sources=2
     )
-    return StreamingResponse(event_stream(response, chat_req), media_type="text/event-stream")
+    # keep your existing “simulated streaming”
+    return StreamingResponse(event_stream(assistant_reply, chat_req), media_type="text/event-stream")
 
 @app.get("/api/ragas")
 async def get_ragas():
